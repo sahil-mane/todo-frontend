@@ -1,4 +1,4 @@
-import image from "./assets/images.jpeg"
+// import image from "./assets/images.jpeg"
 import { Route, Routes } from "react-router-dom"
 import Login from "./pages/login/Login"
 import Signup from "./pages/signup/Signup"
